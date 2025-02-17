@@ -3,9 +3,11 @@ using FootballClubBE.Models;
 using Google.Cloud.Firestore;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 
 namespace FootballClubBE.Controllers
 {
+    [Authorize]
     [ApiController]
     [Route("api/[controller]")]
     public class MatchesController : ControllerBase

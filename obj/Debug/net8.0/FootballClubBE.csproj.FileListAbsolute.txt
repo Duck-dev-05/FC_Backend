@@ -76,3 +76,4 @@ D:\Code\FootballClubWebsite\FootballClubBE\obj\Debug\net8.0\FootballClubBE.pdb
 D:\Code\FootballClubWebsite\FootballClubBE\obj\Debug\net8.0\FootballClubBE.genruntimeconfig.cache
 D:\Code\FootballClubWebsite\FootballClubBE\obj\Debug\net8.0\ref\FootballClubBE.dll
 D:\Code\FootballClubWebsite\FootballClubBE\bin\Debug\net8.0\Credentials\SerivcesKey.json
+D:\Code\FootballClubWebsite\FootballClubBE\obj\Debug\net8.0\FootballClubBE.sourcelink.json
