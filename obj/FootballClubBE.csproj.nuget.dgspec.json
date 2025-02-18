@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\FootballClubWebsite\\FootballClubBE\\FootballClubBE.csproj": {}
+    "E:\\Code\\FootballClubWebsite\\FootballClubBE\\FootballClubBE.csproj": {}
   },
   "projects": {
-    "D:\\Code\\FootballClubWebsite\\FootballClubBE\\FootballClubBE.csproj": {
+    "E:\\Code\\FootballClubWebsite\\FootballClubBE\\FootballClubBE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\FootballClubWebsite\\FootballClubBE\\FootballClubBE.csproj",
+        "projectUniqueName": "E:\\Code\\FootballClubWebsite\\FootballClubBE\\FootballClubBE.csproj",
         "projectName": "FootballClubBE",
-        "projectPath": "D:\\Code\\FootballClubWebsite\\FootballClubBE\\FootballClubBE.csproj",
-        "packagesPath": "C:\\Users\\Duck\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\FootballClubWebsite\\FootballClubBE\\obj\\",
+        "projectPath": "E:\\Code\\FootballClubWebsite\\FootballClubBE\\FootballClubBE.csproj",
+        "packagesPath": "C:\\Users\\Minh Duc\\.nuget\\packages\\",
+        "outputPath": "E:\\Code\\FootballClubWebsite\\FootballClubBE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Duck\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Minh Duc\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -49,7 +49,7 @@
             },
             "Google.Cloud.Firestore": {
               "target": "Package",
-              "version": "[3.1.0, )"
+              "version": "[3.9.0, )"
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
@@ -57,15 +57,15 @@
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[8.0.11, )"
+              "version": "[8.0.0, )"
             },
-            "MongoDB.Driver": {
+            "Microsoft.IdentityModel.Tokens": {
               "target": "Package",
-              "version": "[2.19.0, )"
+              "version": "[8.5.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.6.2, )"
+              "version": "[7.2.0, )"
             }
           },
           "imports": [
@@ -87,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
